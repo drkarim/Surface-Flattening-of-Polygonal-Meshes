@@ -9,7 +9,7 @@ Templates are fixed surfaces which have been unfolded to a flat planar map. Some
 
 The concept of templates is important un unfold cardiac chambers at least. Cardiac chambers come in various different sizes and shapes. Registering and transfomring to a slightly unievrsal shape allows the unfold planar mapping to look the same. Planar mappings can start to look wildly different if they are directly derived from patient-specific examples. 
 
-![Unfold example](https://github.com/drkarim/Surface-Flattening-of-Polygonal-Meshes/blob/master/docs/img/circular_map.png){:height="50%" width="50%"}
+![Unfold example](/docs/img/circular_map.png){:height="50%" width="50%"}
 
 
 
