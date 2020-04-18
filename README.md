@@ -2,7 +2,7 @@
 Surface flattening of polygonal meshes with applications in medical image data
 
 ## Overview 
-This work was inspired from the necessity to unfold cardiac chambers, such as the left Atrium. Unfolding meshes has potential applications in scientific and clinical research. In clinical research, it could be useful techniqe for summarising the information captured in cardiac imaging data. 
+This work was inspired from the necessity to unfold cardiac chambers, such as the left Atrium. Unfolding meshes has potential applications in scientific and clinical research. In clinical research, it could be useful technique for summarising the information captured in cardiac imaging data. 
 
 ## Templates
 Templates are fixed surfaces which have been unfolded to a flat planar map. Some scientific communities such as the medical imaging community call these atlases. To construct these templates, numerous patient-specific examples are taken, transformed and registered to a common co-ordinate frame and fused to generate a *mean* shape.  
